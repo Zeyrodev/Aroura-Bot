@@ -2,3 +2,5 @@ Version 1.0.1 (2025-01-25)
 
 
 Slash commands were Reimplemented, this resulted in many changes in commands due to it being a different system.
+
+All commands now use the / prefix, type / in the chat, and you will see all available commands.
