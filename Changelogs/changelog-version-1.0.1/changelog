@@ -9,3 +9,5 @@ Command changes:
 Admin Commands:
 Due to Slash Command limitations, and to take advantage of their features better, all settings subcommands are grouped by the setting they modify, and then have subcommands view, set and in some cases clear.
 /verification setup
+
+Prefix commands are still usable as these won't be removed because you need them to setup the music channel
